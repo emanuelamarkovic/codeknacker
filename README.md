@@ -1,40 +1,41 @@
 # 👾🙄🤷 codeknacker ⌨️🤔🤷🏿‍♀️
+
 Welcome to **codeknacker**, a game developed with JavaScript, [React](https://react.dev) for dynamic user interfaces and [Vite](https://vitejs.dev) for lightning-fast development.  
-Click [👉 here](https://annagraphic.github.io/codeknacker) for the game.  
-*Psst! Because it's you, here are the credentials: user: 'Harry', pwd: '123'* 😸
+Click [👉 here](https://emanuelamarkovic.github.io/codeknacker) for the game.  
+_Psst! Because it's you, here are the credentials: user: 'Harry', pwd: '123'_ 😸
 
 ## TODOs
 
 - [ M ] game logic
-- [X] components
-  - [X] Header
-    - [X] Navigation (e.g. Dropdon)
-      - [X] add logout
-  - [X] Login
-    -[X] loading spinner
-    -[X]focus
+- [x] components
+  - [x] Header
+    - [x] Navigation (e.g. Dropdon)
+      - [x] add logout
+  - [x] Login -[X] loading spinner -[X]focus
   - [ M ] Game
-    - [X] update score in userContext
-  - [X] Profile
-    - [X] change dummy data to userContext
+    - [x] update score in userContext
+  - [x] Profile
+    - [x] change dummy data to userContext
     - [ ] upload function for profile pic
     - [ ] change username to display name
-  - [X] Leaderboard
-      - [ ] replace dummy data
-- [X] Browser Router
-- [X] index.css
-  - [X] find colors
-  - [X] find font
-  - [X] px convert to em/rem
+  - [x] Leaderboard
+    - [ ] replace dummy data
+- [x] Browser Router
+- [x] index.css
+  - [x] find colors
+  - [x] find font
+  - [x] px convert to em/rem
 - [x] routing
-  - [X] add fallback-route
-  - [X] after login: go to game
-- [X] contexts:
+  - [x] add fallback-route
+  - [x] after login: go to game
+- [x] contexts:
   - [x] change loginReducer to userReducer
 - [ ] add intro to README
-- [X] deployment
+- [x] deployment
+
 ## next steps:
- [🐼] database
+
+[🐼] database
 
 ## Spielablaufplan
 
